@@ -1,5 +1,5 @@
 from datetime import date
-import calendar
+
 age = int(input("Enter your age\t"))
 year = int(input("Current Year\t"))
 
